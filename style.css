@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+}
+
+#section {
+    margin-top: 200px;
+}
+
+#section button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+#counterDiv {
+    margin-top: 20px;
+}
