@@ -6,5 +6,5 @@ cookie.addEventListener('click', () => {
     
     const countText = document.getElementById("counter");
 
-    countText.textContent = `Quantidade de cliques: ${counter}`
+    countText.textContent = `Number of clicks: ${counter}`
 })
